@@ -4,8 +4,11 @@
 
 Nome do projeto;  
 Nome do aluno e turma;  
-Objetivo do trabalho;  
+Natália Visualização de Dados
+Objetivo do trabalho;
+Analisar 
 Explicação simples das tabelas usadas;  
+
 Resumo das duas consultas SQL;  
 Explicação da análise feita em Python;  
 Principais resultados encontrados;  
